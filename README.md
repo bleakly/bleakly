@@ -1,5 +1,5 @@
 <h1 align="center">bleakly</h1>
-<p align="center">designer & wannabe dev</p>
+<p align="center">designer</p>
 
 <a href="https://github.com/bleakly">
   <p align="center">
