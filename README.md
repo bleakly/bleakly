@@ -1,5 +1,4 @@
 <h1 align="center">bleakly</h1>
-<p align="center">fosos hugy</p>
 
 <a href="https://github.com/bleakly">
   <p align="center">
